@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **PowerBI, SQL e Estrutura de Dados**
 
-- 💬 Me pergunte sobre **SQL, MySQL, PowerBI**
+- 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI**
 
 - 📫 Como me encontrar **pri_nobre@hotmail.com**
 
