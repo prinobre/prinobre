@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋,Eu sou a Priscilla</h1>
 <h3 align="center">Apaixonada por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou estudando **PowerBI, SQL e Estrutura de Dados**
+- 🌱 Atualmente estou estudando **PowerBI, SQL e Análise Exploratória e Engenharia de Dados**
 
-- 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI**
+- 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI, AWS**
 
 - 📫 Como me encontrar **pri_nobre@hotmail.com**
 
