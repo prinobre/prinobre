@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **HTML,CSS, Javascript e DevOps**
 
-- 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI, AWS**
+- 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI**
 
 - 📫 Como me encontrar **pri_nobre@hotmail.com**
 
