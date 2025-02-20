@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,Eu sou a Priscilla</h1>
-<h3 align="center">Apaixonada por ciência e análise de dados</h3>
+<h3 align="center">Apaixonada por tecnologia</h3>
 
-- 🌱 Atualmente estou estudando **PowerBI, SQL e Análise Exploratória e Engenharia de Dados**
+- 🌱 Atualmente estou estudando **HTML,CSS, Javascript e DevOps**
 
 - 💬 Me pergunte sobre **SQL, MySQL, Excel, PowerBI, AWS**
 
